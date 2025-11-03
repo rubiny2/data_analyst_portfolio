@@ -41,14 +41,10 @@ from data cleaning → SQL analysis → interactive dashboard → business recom
 
 ## 📁 Repository Structure
 
-📂 Superstore-Analysis
-│
+📂 Superstore-Analysis:
 ├── 📄 report_superstore_portfolio.md # Full analytical report (cleaning log, SQL queries, insights, recommendations)
-├── 📊 superstore_database_cleaned.csv # (optional) cleaned dataset
-└── 🖼️ PowerBI_Dashboard_Screenshots/ # Dashboard screenshots
-
-yaml
-Skopiuj kod
+├── 📊 superstore_profit_analysis_excel.csv # (optional) cleaned dataset
+└── 🖼️ superstore_profit_analysis_dashboard.pbix # Dashboard screenshots
 
 ---
 
@@ -59,7 +55,7 @@ Skopiuj kod
 ✅ Seasonal Trends  
 ✅ Customer Segmentation & LTV  
 
-> Screenshots available in: `PowerBI_Dashboard_Screenshots/`
+> Screenshots available in: `superstore_profit_analysis_dashboard.pbix`
 
 ---
 
